@@ -3,6 +3,7 @@
 This repostory contains code to find out what the optimal placement of a new airport in the Netherlands would be,
 based on which fraction of the population is within a certain distance of all the airports.
 The result depends on the chosen radius within which an airport is close enough to all people living in a certain municipality.
+(Note that the output in the notebook had to be cleared in order to stay within the allowed file size.)
 
 Applied methods in this script are: data manipulation with pandas, analysis using geopandas, creating maps using folium.
 
